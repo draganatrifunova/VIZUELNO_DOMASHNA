@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\bin\Debug\Lotarija.exe.config
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\bin\Debug\Lotarija.exe
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\bin\Debug\Lotarija.pdb
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\obj\Debug\Lotarija.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\obj\Debug\Lotarija.Form1.resources
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\obj\Debug\Lotarija.Properties.Resources.resources
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\obj\Debug\Lotarija.csproj.GenerateResource.cache
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\obj\Debug\Lotarija.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\obj\Debug\Lotarija.exe
+C:\Users\User\source\repos\VIZUELNO\VTOR_KOLOK\Lotarija\Lotarija\obj\Debug\Lotarija.pdb
+C:\Users\User\Desktop\Lotarija\Lotarija\bin\Debug\Lotarija.exe.config
+C:\Users\User\Desktop\Lotarija\Lotarija\bin\Debug\Lotarija.exe
+C:\Users\User\Desktop\Lotarija\Lotarija\bin\Debug\Lotarija.pdb
+C:\Users\User\Desktop\Lotarija\Lotarija\obj\Debug\Lotarija.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lotarija\Lotarija\obj\Debug\Lotarija.Form1.resources
+C:\Users\User\Desktop\Lotarija\Lotarija\obj\Debug\Lotarija.Properties.Resources.resources
+C:\Users\User\Desktop\Lotarija\Lotarija\obj\Debug\Lotarija.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Lotarija\Lotarija\obj\Debug\Lotarija.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lotarija\Lotarija\obj\Debug\Lotarija.exe
+C:\Users\User\Desktop\Lotarija\Lotarija\obj\Debug\Lotarija.pdb
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\bin\Debug\Lotarija.exe.config
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\bin\Debug\Lotarija.exe
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\bin\Debug\Lotarija.pdb
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\obj\Debug\Lotarija.csproj.AssemblyReference.cache
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\obj\Debug\Lotarija.Form1.resources
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\obj\Debug\Lotarija.Properties.Resources.resources
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\obj\Debug\Lotarija.csproj.GenerateResource.cache
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\obj\Debug\Lotarija.csproj.CoreCompileInputs.cache
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\obj\Debug\Lotarija.exe
+C:\Users\Dragana Trifunova\Downloads\Lotarija_1\Lotarija\Lotarija\obj\Debug\Lotarija.pdb
