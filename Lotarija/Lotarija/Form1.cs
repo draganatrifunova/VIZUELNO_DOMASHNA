@@ -41,7 +41,7 @@ namespace Lotarija
                     do
                     {
                         lotoNumber = random.Next(1, 38);
-                    } while (!generatedNumbers.Add(lotoNumber)); // Add returns false if the number is already in the set
+                    } while (!generatedNumbers.Add(lotoNumber)); 
 
                     line += lotoNumber;
                     line += ";";
